@@ -1,0 +1,7 @@
+{
+  "name": "TestBarCode",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
